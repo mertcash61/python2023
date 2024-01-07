@@ -14,4 +14,4 @@ sayi10 = float(input("Onuncu saıyı girin:"))
 toplam = sayi1 + sayi2 + sayi3 + sayi4 + sayi5 + sayi6 + sayi7 + sayi8 + sayi9 + sayi10
 
 # Sonucu ekrana yazdır
-print(f"{sayi1} + {sayi2} +{sayi3} + {sayi4} +{sayi5} + {sayi6} + {sayi7} + {sayi8} + {sayi9} + {sayi10}")
+print(f"{sayi1} + {sayi2} +{sayi3} + {sayi4} +{sayi5} + {sayi6} + {sayi7} + {sayi8} + {sayi9} + {sayi10} = {toplam}")
